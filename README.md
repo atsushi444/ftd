@@ -1,7 +1,6 @@
 <div align="center">
 <h1 class="post-title">西班牙语 | 字母表</h1>
 </div>
-<p><img src="spanish1/jp.png" alt=""></p>
 <h2 id="字母表-el-alfabeto">字母表 | El Alfabeto</h2>
 <table>
 <thead>
